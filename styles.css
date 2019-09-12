@@ -1,0 +1,16 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: brown;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: georgia;
+}
+ul {
+  line-height: 40px;
+}
+body {background-color: green;}

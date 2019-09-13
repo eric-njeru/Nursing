@@ -13,4 +13,35 @@ p {
 ul {
   line-height: 40px;
 }
-body {background-color: green;}
+body {background-color: pink;}
+.intro {
+  font-style: italic;
+  font-size: 18px
+}
+.author {
+  color: orange;
+  font-size: 10px;
+  font-style: oblique;
+}
+.nurses {
+  color: white;
+  font-style: italic;
+}
+#line1 {
+  color: red;
+}
+.important {
+  color: blue;
+}
+.others {
+  color: green;
+}
+.nurse {
+  color:yellow;
+}
+.nures {
+  color: red;
+}
+img {
+  float: centre;
+}
